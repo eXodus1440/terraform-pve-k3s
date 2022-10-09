@@ -2,9 +2,9 @@
 Deploying k3s master and worker nodes into Proxmox with Terraform
 
 References used to create this configuration
-https://www.middlewareinventory.com/blog/terraform-create-multiple-ec2-different-config/
-https://www.middlewareinventory.com/blog/terraform-ebs_block_device-example/
-https://github.com/AKSarav/Terraform-Count-ForEach
+- https://www.middlewareinventory.com/blog/terraform-create-multiple-ec2-different-config/
+- https://www.middlewareinventory.com/blog/terraform-ebs_block_device-example/
+- https://github.com/AKSarav/Terraform-Count-ForEach
 
 Initalise terraform
 ```bash
